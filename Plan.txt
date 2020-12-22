@@ -1,0 +1,5 @@
+-Learn react
+-Plug google maps react element in to get location of marker
+-Figure out requests to g maps api for elevations
+-Create function to resolve azimuth angle approximating by time of year
+-using paper, calculate maximum blockage in that direction
